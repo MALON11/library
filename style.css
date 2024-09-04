@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.tb{
+    max-width: 100%;
+    margin: auto;
+    align-self: center;
+}
+
+
+tr, td{
+    border: solid black;
+    display: block black;
+    padding: 8px;
+    text-align: center;
+}
+.header{
+    text-align: center;
+    background-color: aliceblue;
+}
+form{
+    margin: auto;
+    max-width: 100%;
+    padding: 10px;
+    align-items: center;
+    border-radius: 5px;
+    align-content: center;
+
+}
+label{
+    display: block;
+    margin: 1px;
+    padding: 1px;
+}
+input{
+    border-radius: 4px;
+    padding: 5px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+button{
+    align-self: center;
+}
